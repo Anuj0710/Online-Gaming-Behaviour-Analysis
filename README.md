@@ -74,3 +74,14 @@ The dashboard enables stakeholders to quickly interpret trends and identify high
 - Regional differences significantly impact engagement behavior and spending patterns.
 
 ---
+## 🚀 Future Enhancements
+- Apply machine learning models for churn prediction.
+- Automate data ingestion using SQL pipelines.
+- Integrate real-time data updates into the Tableau dashboard.
+
+
+---
+
+## 📌 Author
+**Anuj Negi**
+Aspiring Data Analyst / Data Scientist

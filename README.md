@@ -74,5 +74,3 @@ The dashboard enables stakeholders to quickly interpret trends and identify high
 - Regional differences significantly impact engagement behavior and spending patterns.
 
 ---
-
-## 📂 Project Structure
